@@ -37,21 +37,24 @@ namespace Lists {
                     Console.WriteLine("\nQual o id do funcionário que receberá o ajuste? ");
                     String idString = Console.ReadLine();
 
-                    if(string.IsNullOrEmpty(idString))
+                    if (string.IsNullOrEmpty(idString))
                         break;
 
                     int id = Convert.ToInt32(idString);
+                    Employee employee; 
+
+                    try {
+                        employee = employees.Single(e => e.Id == id);
+
+                    } catch(InvalidOperationException ex) {
+                        Console.WriteLine("Nenhum funcionário localizado!");
+                        break;
+                    }
 
                     Console.WriteLine("Quantos % será o reajuste? ");
                     decimal readjustment = Convert.ToDecimal(Console.ReadLine());
 
-                    try {
-                        employees.Single(e => e.Id == id).additionPay(readjustment);
-
-                    } catch {
-                        Console.WriteLine("Nenhum funcionário localizado!");
-                        break;
-                    }
+                    employee.additionPay(readjustment);
                 }
             }
 
