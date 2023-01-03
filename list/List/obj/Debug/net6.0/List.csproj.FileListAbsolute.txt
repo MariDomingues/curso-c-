@@ -1,0 +1,15 @@
+D:\curso\back\c#\list\List\bin\Debug\net6.0\List.exe
+D:\curso\back\c#\list\List\bin\Debug\net6.0\List.deps.json
+D:\curso\back\c#\list\List\bin\Debug\net6.0\List.runtimeconfig.json
+D:\curso\back\c#\list\List\bin\Debug\net6.0\List.dll
+D:\curso\back\c#\list\List\bin\Debug\net6.0\List.pdb
+D:\curso\back\c#\list\List\obj\Debug\net6.0\List.csproj.AssemblyReference.cache
+D:\curso\back\c#\list\List\obj\Debug\net6.0\List.GeneratedMSBuildEditorConfig.editorconfig
+D:\curso\back\c#\list\List\obj\Debug\net6.0\List.AssemblyInfoInputs.cache
+D:\curso\back\c#\list\List\obj\Debug\net6.0\List.AssemblyInfo.cs
+D:\curso\back\c#\list\List\obj\Debug\net6.0\List.csproj.CoreCompileInputs.cache
+D:\curso\back\c#\list\List\obj\Debug\net6.0\List.dll
+D:\curso\back\c#\list\List\obj\Debug\net6.0\refint\List.dll
+D:\curso\back\c#\list\List\obj\Debug\net6.0\List.pdb
+D:\curso\back\c#\list\List\obj\Debug\net6.0\List.genruntimeconfig.cache
+D:\curso\back\c#\list\List\obj\Debug\net6.0\ref\List.dll

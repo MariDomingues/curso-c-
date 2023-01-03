@@ -6,7 +6,7 @@
 
             Console.WriteLine("Digite as informações solicitadas para a conclusão do pensionato!");
             int i = 0;
-            while (i <= 10) {
+            while (i <= 10) { 
                 Console.WriteLine("Digite o nome:");
                 string name = Console.ReadLine();
 
