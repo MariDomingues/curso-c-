@@ -45,7 +45,13 @@ namespace Lists {
                     Console.WriteLine("Quantos % será o reajuste? ");
                     decimal readjustment = Convert.ToDecimal(Console.ReadLine());
 
-                    employees.First(e => e.Id == id).additionPay(readjustment);
+                    try {
+                        employees.Single(e => e.Id == id).additionPay(readjustment);
+
+                    } catch {
+                        Console.WriteLine("Nenhum funcionário localizado!");
+                        break;
+                    }
                 }
             }
 
