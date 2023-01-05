@@ -47,7 +47,7 @@ namespace Lists {
                         employee = employees.Single(e => e.Id == id);
 
                     } catch(InvalidOperationException ex) {
-                        Console.WriteLine("Nenhum funcionário localizado!");
+                        Console.WriteLine($"\n\nNenhum funcionário localizado com o id {id}!");
                         break;
                     }
 
@@ -58,7 +58,7 @@ namespace Lists {
                 }
             }
 
-            Console.WriteLine("Relatório:");
+            Console.WriteLine("\n\nRelatório:");
             employees.ForEach(e => {
                 Console.WriteLine($"\nId: {e.Id}, Nome: {e.Name}, Salário: {e.Pay}");
             });

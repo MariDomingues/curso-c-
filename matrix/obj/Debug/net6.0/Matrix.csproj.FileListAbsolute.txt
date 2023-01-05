@@ -1,0 +1,15 @@
+D:\curso\back\c#\matrix\bin\Debug\net6.0\Matrix.exe
+D:\curso\back\c#\matrix\bin\Debug\net6.0\Matrix.deps.json
+D:\curso\back\c#\matrix\bin\Debug\net6.0\Matrix.runtimeconfig.json
+D:\curso\back\c#\matrix\bin\Debug\net6.0\Matrix.dll
+D:\curso\back\c#\matrix\bin\Debug\net6.0\Matrix.pdb
+D:\curso\back\c#\matrix\obj\Debug\net6.0\Matrix.csproj.AssemblyReference.cache
+D:\curso\back\c#\matrix\obj\Debug\net6.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\curso\back\c#\matrix\obj\Debug\net6.0\Matrix.AssemblyInfoInputs.cache
+D:\curso\back\c#\matrix\obj\Debug\net6.0\Matrix.AssemblyInfo.cs
+D:\curso\back\c#\matrix\obj\Debug\net6.0\Matrix.csproj.CoreCompileInputs.cache
+D:\curso\back\c#\matrix\obj\Debug\net6.0\Matrix.dll
+D:\curso\back\c#\matrix\obj\Debug\net6.0\refint\Matrix.dll
+D:\curso\back\c#\matrix\obj\Debug\net6.0\Matrix.pdb
+D:\curso\back\c#\matrix\obj\Debug\net6.0\Matrix.genruntimeconfig.cache
+D:\curso\back\c#\matrix\obj\Debug\net6.0\ref\Matrix.dll
