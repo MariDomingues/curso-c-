@@ -5,7 +5,7 @@ namespace Matrix {
 
     class Program {
         static void Main(string[] args) {
-            //exercise1();
+            exercise1();
             exercise2();
         }
 
